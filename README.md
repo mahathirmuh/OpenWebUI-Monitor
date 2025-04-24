@@ -41,7 +41,7 @@ sudo docker compose up -d
 | OPENWEBUI_DOMAIN  | OpenWebUI domain                                                      | `https://chat.example.com` |
 | OPENWEBUI_API_KEY | OpenWebUI API Key, found in `Personal Settings -> Account -> API Key` | `sk-xxxxxxxxxxxxxxxx`      |
 | API_KEY           | For API request verification (must be less than 56 characters)        | `your-api-key-here`        |
-| ACCESS_TOKEN      | For page access verification                                          | `your-access-token-here`   |
+| ACCESS_TOKEN      | For page access verification                                          | `your-access-token-here`   | > HOW TO KNOW/GET THIS ONE ? I ALREADY SET TOKEN .ENV BUT STILL CANT LOGIN, TOKEN ALWAYS WRONG
 
 ### Optional
 
